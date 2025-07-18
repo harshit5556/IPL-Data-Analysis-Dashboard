@@ -1,5 +1,5 @@
 <img width="850" height="551" alt="Screenshot 2025-07-19 004155" src="https://github.com/user-attachments/assets/71065f86-f359-45e7-8bfb-b35848c1555b" />
-## IPL Data Analysis Dashboard
+##IPL Data Analysis Dashboard
 
 About This Project
 Welcome! I built this fully interactive dashboard because of my passion for cricket and data. I wanted to create a one-stop solution to explore the rich history of the Indian Premier League (IPL) and uncover insights from over a decade of match data. This dashboard, built entirely in Power BI, allows any user to select a season and instantly see a complete summary of winners, top performers, and overall league statistics.
